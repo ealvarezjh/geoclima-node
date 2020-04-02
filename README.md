@@ -8,7 +8,12 @@ Posteriormente con las coordenadas consulta al servicio REST de Open Weather par
 Es necesario ejecutar:
 ```
     npm install 
+```
 
+Ejemplo:
+
+```
+    node app -d "New York"
 ```
 
 
